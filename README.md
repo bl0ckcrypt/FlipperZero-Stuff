@@ -7,25 +7,32 @@
 Bitrefill is an online platform for purchasing giftcards for a wide range of categories from food, electronic to apparel and much more with various payment methods such as CRYPTOCURRENCY, and FIAT.
 <br/>
 <br/>
-<a href="{docs-url}"><strong>Explore the docs »</strong></a> | <a href="https://github.com/bl0ckcrypt/repository/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+<a href="{docs-url}"><strong>Explore the docs »</strong></a>     |     <a href="https://github.com/bl0ckcrypt/repository/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
 </div>
 
 ## About The Project
 
-tba (the Bitrefill API) is my own collection of their API endpoints to help developers & resellers to integrate Bitrefill to their sites. I have collected over NaN api endpoints and written over NaN lines of documentation for them.
+*tba* (the Bitrefill API) is my own collection of their API endpoints to help developers & resellers to integrate Bitrefill to their sites. I have collected over *NaN* API endpoints and written over *Na*N lines of documentation.
+
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You can start to use *tba* either by getting a local copy of this repository and using the RAW API endpoints or by using _ready-made_ examples (currently **Python** only, more coming soon.)
+
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To get a local copy up and running follow these simple steps.
 
-- npm
+- 1. Clone this repository
   ```sh
-  npm install npm@latest -g
+  git clone https://github.com/YOUR_USERNAME/somerepo.git
   ```
+  
+- 2. Navigate to the repository folders and choose if you want to use _ready-made example_ or _RAW API endpoints_
+  ```sh
+  cd Bitrefill-API
+  ```
+    
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
