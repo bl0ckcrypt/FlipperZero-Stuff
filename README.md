@@ -7,10 +7,7 @@
 Bitrefill is an online platform for purchasing giftcards for a wide range of categories from food, electronic to apparel and much more with various payment methods such as CRYPTOCURRENCY, and FIAT.
 <br/>
 <br/>
-<a href="{docs-url}"><strong>Explore the docs »</strong></a>
-<br/>
-<br/>
-<a href="https://github.com/bl0ckcrypt/repository/issues/new?labels=enhancement&template=feature-request---.md">Request Feature »</a>
+<a href="{docs-url}"><strong>Explore the docs »</strong></a> | <a href="https://github.com/bl0ckcrypt/repository/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 </p>
 </div>
 
