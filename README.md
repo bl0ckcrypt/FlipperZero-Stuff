@@ -8,8 +8,9 @@ Bitrefill is an online platform for purchasing giftcards for a wide range of cat
 <br/>
 <br/>
 <a href="{docs-url}"><strong>Explore the docs »</strong></a>
-  <br/>
-<a href="https://github.com/bl0ckcrypt/repository/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+<br/>
+<br/>
+<a href="https://github.com/bl0ckcrypt/repository/issues/new?labels=enhancement&template=feature-request---.md">Request Feature »</a>
 </p>
 </div>
 
